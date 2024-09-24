@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23489092/khoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23489092/khoa" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/%c4%90%e1%bb%97-nguy%e1%bb%85n-%c4%90%c4%83ng-khoa/pfbid0293yatfym8xtgothzp4lw294idnyiqerifbljw4xudlwvgwb8aezpwgit4dsckhx8l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/%c4%90%e1%bb%97-nguy%e1%bb%85n-%c4%90%c4%83ng-khoa/pfbid0293yatfym8xtgothzp4lw294idnyiqerifbljw4xudlwvgwb8aezpwgit4dsckhx8l/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
